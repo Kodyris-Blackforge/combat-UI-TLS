@@ -1,3 +1,6 @@
+> [!NOTE]
+> AI USAGE (AI Code generation) This is regularly tested to ensure functionality
+
 # Combat HUD (Forge 1.20.1)
 
 Runs on both client and server (install on both, same version). Replaces the survival HUD (Warzone-style) and the survival inventory screen (Division-style).
